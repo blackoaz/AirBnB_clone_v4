@@ -212,14 +212,6 @@ github repo
 
 ## Authors
 
-* MJ Johnson, [@mj31508](https://github.com/mj31508)
-* David John Coleman II, [davidjohncoleman.com](http://www.davidjohncoleman.com/) | [@djohncoleman](https://twitter.com/djohncoleman)
-* Kimberly Wong, [kjowong](https://github.com/kjowong) | [@kjowong](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
-* Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
-* Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
-* David Kwan, [dwkwan](https://github.com/dwkwan) | [@davidwkwan](https://twitter.com/davidwkwan)
-* Drew Maring, [dmaring](https://github.com/dmaring) | [@drewmaring](https://twitter.com/drewmaring)
+* Paulo Akello,  |(https://twitter.com/paulo_akello)
 
 ## License
-
-MIT License
